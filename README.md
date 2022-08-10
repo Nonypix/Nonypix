@@ -1,6 +1,6 @@
 - 👋 Hi, I’m  o Kayke
-- 👀 I’m interested in análise em desenvolvimento de sof
-- 🌱 I’m currently learning Programação mobile
+- 👀 I’m interested in software development analysis
+- 🌱 I’m currently learning mobile programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @nonypix
 
